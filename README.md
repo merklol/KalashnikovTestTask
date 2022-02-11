@@ -15,3 +15,8 @@ Create a mobile app for the Android operating system that shows a list of books 
 <img src="screenshots/Screenshot_1644598625.png" width="32%"/>
 <img src="screenshots/Screenshot_1644598665.png" width="32%"/>
 </p>
+
+## Contact
+
+Maxim Smolyakov - [LinkedIn](https://linkedin.com/in/maxim-smolyakov-8945211a5)
+- [Email](mailto:sm.makism@icloud.com) - [Facebook](https://www.facebook.com/merk.merklol)
