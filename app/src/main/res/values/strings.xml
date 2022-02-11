@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KalashnikovTestTask</string>
+    <string name="edit_action">Edit</string>
+    <string name="description_area">Description Area</string>
+    <string name="author">%s, %s</string>
+    <string name="save">Save</string>
+</resources>
