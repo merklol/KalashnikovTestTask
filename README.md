@@ -18,5 +18,4 @@ Create a mobile app for the Android operating system that shows a list of books 
 
 ## Contact
 
-Maxim Smolyakov - [LinkedIn](https://linkedin.com/in/maxim-smolyakov-8945211a5)
-- [Email](mailto:sm.makism@icloud.com) - [Facebook](https://www.facebook.com/merk.merklol)
+Maxim Smolyakov - [LinkedIn](https://linkedin.com/in/maxim-smolyakov-8945211a5) - [Email](mailto:sm.makism@icloud.com) - [Facebook](https://www.facebook.com/merk.merklol)
