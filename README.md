@@ -11,7 +11,7 @@ Create a mobile app for the Android operating system that shows a list of books 
 
 ## Screenshots
 <p align="center">
-<img src="images/Screenshot_1644598622.png" width="32%"/>
-<img src="images/Screenshot_1644598625.png" width="32%"/>
-<img src="images/Screenshot_1644598665.png" width="32%"/>
+<img src="screenshots/Screenshot_1644598622.png" width="32%"/>
+<img src="screenshots/Screenshot_1644598625.png" width="32%"/>
+<img src="screenshots/Screenshot_1644598665.png" width="32%"/>
 </p>
